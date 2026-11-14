@@ -1,0 +1,7 @@
+{
+  "/api/state/route": "app/api/state/route.js",
+  "/api/weather/route": "app/api/weather/route.js",
+  "/api/nasa/route": "app/api/nasa/route.js",
+  "/api/ai/route": "app/api/ai/route.js",
+  "/page": "app/page.js"
+}
