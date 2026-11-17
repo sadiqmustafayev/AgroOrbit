@@ -1,35 +1,55 @@
 {
   "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-ed08813b903f6071.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-73938ce8a8eac1ad.js",
+      "static/chunks/main-app-193c6be6ad8f70c8.js",
+      "static/chunks/app/_not-found/page-32667f8df44d5a32.js"
+    ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
-    ],
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
-    ],
-    "/api/state/route": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/api/state/route.js"
+      "static/chunks/webpack-ed08813b903f6071.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-73938ce8a8eac1ad.js",
+      "static/chunks/main-app-193c6be6ad8f70c8.js",
+      "static/css/494c516b3ddc1e9a.css",
+      "static/chunks/app/layout-0086ca25762cb5e3.js"
     ],
     "/api/nasa/route": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/api/nasa/route.js"
+      "static/chunks/webpack-ed08813b903f6071.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-73938ce8a8eac1ad.js",
+      "static/chunks/main-app-193c6be6ad8f70c8.js",
+      "static/chunks/app/api/nasa/route-ea2eab4043270f75.js"
     ],
     "/api/weather/route": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/api/weather/route.js"
+      "static/chunks/webpack-ed08813b903f6071.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-73938ce8a8eac1ad.js",
+      "static/chunks/main-app-193c6be6ad8f70c8.js",
+      "static/chunks/app/api/weather/route-ea2eab4043270f75.js"
+    ],
+    "/api/state/route": [
+      "static/chunks/webpack-ed08813b903f6071.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-73938ce8a8eac1ad.js",
+      "static/chunks/main-app-193c6be6ad8f70c8.js",
+      "static/chunks/app/api/state/route-ea2eab4043270f75.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-ed08813b903f6071.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-73938ce8a8eac1ad.js",
+      "static/chunks/main-app-193c6be6ad8f70c8.js",
+      "static/chunks/290-76cb96a29a4ec98f.js",
+      "static/chunks/app/page-a43ed658168c61fa.js"
     ],
     "/api/ai/route": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/api/ai/route.js"
+      "static/chunks/webpack-ed08813b903f6071.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-73938ce8a8eac1ad.js",
+      "static/chunks/main-app-193c6be6ad8f70c8.js",
+      "static/chunks/app/api/ai/route-ea2eab4043270f75.js"
     ]
   }
 }

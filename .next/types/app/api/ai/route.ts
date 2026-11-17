@@ -1,4 +1,4 @@
-// File: D:\agroorbit\src\app\api\ai\route.ts
+// File: D:\AgroOrbit\src\app\api\ai\route.ts
 import * as entry from '../../../../../src/app/api/ai/route.js'
 import type { NextRequest } from 'next/server.js'
 

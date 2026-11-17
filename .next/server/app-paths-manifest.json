@@ -1,7 +1,8 @@
 {
-  "/api/state/route": "app/api/state/route.js",
-  "/api/weather/route": "app/api/weather/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/api/nasa/route": "app/api/nasa/route.js",
-  "/api/ai/route": "app/api/ai/route.js",
-  "/page": "app/page.js"
+  "/api/weather/route": "app/api/weather/route.js",
+  "/api/state/route": "app/api/state/route.js",
+  "/page": "app/page.js",
+  "/api/ai/route": "app/api/ai/route.js"
 }
